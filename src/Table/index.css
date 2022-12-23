@@ -1,0 +1,12 @@
+.tabel {
+  margin: auto;
+  width: 75%;
+  background: #fff;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+  /* padding: 10px; */
+}
+.btn-tambah {
+  margin-left: 75%;
+}
